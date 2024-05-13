@@ -1,0 +1,24 @@
+Lada Vesta Sedan
+6.3 10.1 7.7
+181
+122
+Lada Niva Legend
+8.3 12.1 9.9
+142
+83
+Lada Niva Travel
+8.5 13.4 10.2
+140
+80
+Lada Largus Cross
+6.3 10.2 7.8
+170
+106
+Lada Vesta SW Sportline
+5.8 9.9 7.4
+186
+118
+Lada Granta Cross
+5.2 8.7 6.5
+178
+106

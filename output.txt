@@ -1,0 +1,62 @@
+[+] This is set: 
+Model: Lada Vesta SW Sportline
+Fuel consumption
+highway: 5.8 city: 9.9 mixed: 7.4
+Max speed: 186
+Engine power: 118
+
+Model: Lada Vesta Sedan
+Fuel consumption
+highway: 6.3 city: 10.1 mixed: 7.7
+Max speed: 181
+Engine power: 122
+
+Model: Lada Largus Cross
+Fuel consumption
+highway: 6.3 city: 10.2 mixed: 7.8
+Max speed: 170
+Engine power: 106
+
+Model: Lada Niva Legend
+Fuel consumption
+highway: 8.3 city: 12.1 mixed: 9.9
+Max speed: 142
+Engine power: 83
+
+Model: Lada Niva Travel
+Fuel consumption
+highway: 8.5 city: 13.4 mixed: 10.2
+Max speed: 140
+Engine power: 80
+
+[+] This is unorset: 
+Model: Lada Vesta SW Sportline
+Fuel consumption
+highway: 5.8 city: 9.9 mixed: 7.4
+Max speed: 186
+Engine power: 118
+
+Model: Lada Largus Cross
+Fuel consumption
+highway: 6.3 city: 10.2 mixed: 7.8
+Max speed: 170
+Engine power: 106
+
+Model: Lada Niva Travel
+Fuel consumption
+highway: 8.5 city: 13.4 mixed: 10.2
+Max speed: 140
+Engine power: 80
+
+Model: Lada Niva Legend
+Fuel consumption
+highway: 8.3 city: 12.1 mixed: 9.9
+Max speed: 142
+Engine power: 83
+
+Model: Lada Vesta Sedan
+Fuel consumption
+highway: 6.3 city: 10.1 mixed: 7.7
+Max speed: 181
+Engine power: 122
+

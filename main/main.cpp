@@ -28,14 +28,14 @@ std::copy. А также сортировку объектов в исходно
 + Исходный контейнер vector, копируем в deque
 */
 
-#include "vehicle.hpp" // Подключение заголовочного файла с описанием класса Vehicle
+#include "../vehicle/vehicle.hpp" // Подключение заголовочного файла с описанием класса Vehicle
 #include <fstream>
 #include <set>
 #include <unordered_set>
 
 template <class T> void CustomOutput(T &_TMP) {
   // Открытие файла для записи
-  std::ofstream output("output.txt", std::ios::app);
+  std::ofstream output("../stream/output.txt", std::ios::app);
 
   output << _TMP << std::endl;    // Запись объекта в файл
   std::cout << _TMP << std::endl; // Вывод объекта на консоль
@@ -54,10 +54,10 @@ template <> struct hash<Vehicle> {
 } // namespace std
 
 int main() {
-  std::ofstream clear("output.txt"); // Очистка файла вывода
+  std::ofstream clear("../stream/output.txt"); // Очистка файла вывода
   clear.close();                     // Закрытие файла
 
-  std::ifstream input("input.txt"); // Открытие файла для чтения
+  std::ifstream input("../stream/input.txt"); // Открытие файла для чтения
 
   std::set<Vehicle> _TEST1; // Создание вектора объектов класса Vehicle
   std::unordered_set<Vehicle> _TEST2;
